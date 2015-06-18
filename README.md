@@ -1,2 +1,2 @@
 # hello-world
-This is just another learning.
+This is just another GIT learning.
